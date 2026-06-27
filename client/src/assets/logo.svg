@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 30">
+  <defs>
+    <linearGradient id="logoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6469ff"/>
+      <stop offset="100%" style="stop-color:#a855f7"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="120" height="30" rx="15" fill="url(#logoGrad)"/>
+  <circle cx="25" cy="15" r="8" fill="white"/>
+  <polygon points="25,7 29,13 25,15 21,13" fill="#6469ff"/>
+  <polygon points="25,23 29,17 25,15 21,17" fill="#6469ff"/>
+  <polygon points="17,15 23,11 25,15 23,19" fill="#6469ff"/>
+  <polygon points="33,15 27,11 25,15 27,19" fill="#6469ff"/>
+  <path d="M45 12h4v6h-4zM52 12h4v6h-4zM59 12h4v6h-4zM45 18h4v4h-4zM52 18h4v4h-4zM59 18h4v4h-4z" fill="white"/>
+  <text x="72" y="22" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">AI Image</text>
+</svg>
